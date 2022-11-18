@@ -12,7 +12,7 @@ registerLocale('es', es);
 
 const customStyles ={
     content:{
-        top:'15%',
+        top:'7%',
         left:'40%',
         right:'auto',
         bottom: 'auto',
